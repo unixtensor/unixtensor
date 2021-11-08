@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @interpreterK, **Brandon**.
-- 👀 I’m interested in ... **Programming mostly full-stack. Mastered the Lua programming language**.
+- 👀 I’m interested in ... **Full-stakc programming. Mastered the Lua programming language**.
 - 🌱 I’m currently learning ... **C#, C++, HTML, CSS, & JavaScript**.
 - 💞️ I’m looking to collaborate on ... **Roblox related game development soon web design and game design with C++ or C#**.
 - 📫 How to reach me ... **Brandong#3427** (Discord).
