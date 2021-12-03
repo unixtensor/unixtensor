@@ -4,7 +4,6 @@
   <b>Hello!</b> I'm interpreterK i'm a full-stack programmer, my 1st ever language was Lua.<br>
   <b>My real name:</b> Brandon<br>
   <b>Collaboration:</b> Lua or Roblox related code. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>. I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
-  
 </p>
 <i>
   <h3>📜 Experienced languages:</h3>
