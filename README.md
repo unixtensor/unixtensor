@@ -1,9 +1,11 @@
 <!-- interpreterK, https://github.com/interpreterK -->
 <h1>Welcome To My Github Profile.</h1>
 <p>
-  <b>Hello!</b> I'm interpreterK i'm a full-stack programmer, my 1st ever language was Lua.<br>
+  <b>👋 Hello!</b> I'm <i>interpreterK</i> i'm a full-stack programmer, my 1st ever language was Lua.<br>
   <b>My real name:</b> Brandon<br>
-  <b>Collaboration:</b> Lua or Roblox related code. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>. I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
+  <b>Collaboration:</b> Lua or Roblox related programming. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>. I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
+  <b>You can also find me active on the dev forums here:</b> https://devforum.roblox.com/u/interpreterk/activity <br>
+  --------------------------------------------------------
 </p>
 <i>
   <!-- Couldn't find svg versions of all the icons but this usually wont matter for this use case. -->
@@ -29,7 +31,7 @@
   <br>
   --------------------------------------------------------
 </i>
-<h3>✉ Contact info:</h3>
+<h3>✉ Contact/connections info:</h3>
 <p>
   <img width=20 height=15 src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"> Discord: <b>Brandong#3427</b><br>
   <img width=23 height=22 src="https://static.wikia.nocookie.net/logopedia/images/b/bb/Roblox_Player_2019.svg/revision/latest/top-crop/width/220/height/220?cb=20200809184355">
