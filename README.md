@@ -6,6 +6,7 @@
   <b>Collaboration:</b> Lua or Roblox related code. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>. I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
 </p>
 <i>
+  <!-- Couldn't find svg versions of all the icons but this usually wont matter for this use case. -->
   <h3>📜 Experienced languages:</h3>
   <div>
     <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
