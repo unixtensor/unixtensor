@@ -27,7 +27,6 @@
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/2048px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png">
   <img width=40 height=40 src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-  <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/1200px-Adobe_Dreamweaver_CC_icon.svg.png">
   <br>
   --------------------------------------------------------
 </i>
