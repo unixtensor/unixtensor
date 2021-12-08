@@ -2,14 +2,13 @@
 <h1>Welcome To My Github Profile.</h1>
 <p>
   <b>👋 Hello!</b> I'm <i>interpreterK</i> i'm a full-stack programmer, my 1st ever language was Lua.<br>
-  <b>My real name:</b> Brandon<br>
-  <b>Collaboration:</b> Lua or Roblox related programming. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>. I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
+  <b>My real name:</b> Brandon.<br>
+  <b>Collaboration:</b> Lua or Roblox related programming. <i>You can contact me for collaborations or commissions here: https://talent.roblox.com/creators/717072114</i>, I currently dont collaborate with other languages outside of Lua just yet unless its for learning.<br>
   <b>You can also find me active on the dev forums here:</b> https://devforum.roblox.com/u/interpreterk/activity <br>
-  --------------------------------------------------------
 </p>
 <i>
   <!-- Couldn't find svg versions of all the icons but this usually wont matter for this use case. -->
-  <h3>📜 Experienced languages:</h3>
+  <h2>📜 Experienced languages:</h2>
   <div>
     <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
     <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
@@ -21,17 +20,15 @@
   </div>
 </i>
 <i>
-  --------------------------------------------------------
-  <h3>✏ Choice of ide's:</h3>
+  <h2>✏ Choice of ide's:</h2>
   <img width=40 height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/2048px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png">
   <img width=40 height=40 src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">
   <img width=40 height=40 src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   <br>
-  --------------------------------------------------------
 </i>
-<h3>✉ Contact/connections info:</h3>
+<h2>✉ Contact/connections info:</h2>
 <p>
   <img width=20 height=15 src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"> Discord: <b>Brandong#3427</b><br>
   <img width=23 height=22 src="https://static.wikia.nocookie.net/logopedia/images/b/bb/Roblox_Player_2019.svg/revision/latest/top-crop/width/220/height/220?cb=20200809184355">
