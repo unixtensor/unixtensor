@@ -26,6 +26,7 @@
   <img width=40 height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/2048px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
   <img width=40 height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png">
+  <img width=40 height=40 src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">
   <img width=40 height=40 src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
   <br>
   --------------------------------------------------------
