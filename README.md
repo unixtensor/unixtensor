@@ -35,3 +35,7 @@
   ROBLOX: <b>interpreterK</b> / https://www.roblox.com/users/717072114/profile<br>
   <img width=23 height=15 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"> Youtube: <b>rhpid</b> / https://www.youtube.com/channel/UCTwiKRj_CyRCFhpj4uuWFzQ<br>
 </p>
+<h2>📊 Stats:</h2>
+
+![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&hide=contribs&count_private=true&show_icons=true)<br>
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&layout=compact)
