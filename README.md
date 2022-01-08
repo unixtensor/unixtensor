@@ -38,4 +38,4 @@
 <h2>📊 Stats:</h2>
 
 ![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)<br>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&layout=compact&theme=tokyonight)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=8&layout=compact&theme=tokyonight)
