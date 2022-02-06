@@ -30,7 +30,6 @@
 </i>
 <h2>✉ Contact/connections info:</h2>
 <p>
-  <img width=20 height=15 src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"> Discord: <b>Brandong#3427</b><br>
   <img width=23 height=22 src="https://static.wikia.nocookie.net/logopedia/images/b/bb/Roblox_Player_2019.svg/revision/latest/top-crop/width/220/height/220?cb=20200809184355">
   ROBLOX: <b>interpreterK</b> / https://www.roblox.com/users/717072114/profile<br>
   <img width=23 height=15 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"> Youtube: <b>rhpid</b> / https://www.youtube.com/channel/UCTwiKRj_CyRCFhpj4uuWFzQ<br>
