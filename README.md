@@ -27,5 +27,4 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark)
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark)
+![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark) ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark)
