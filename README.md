@@ -1,5 +1,9 @@
 <h1>Welcome To My GitHub Profile</h1>
 
+**My Youtube:** https://www.youtube.com/channel/UCTwiKRj_CyRCFhpj4uuWFzQ <br>
+**My Discord:** Brandong#0001
+
+---
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
