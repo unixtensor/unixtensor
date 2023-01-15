@@ -21,7 +21,7 @@ Brandong#0001
 <br>
 
 <h1 align='center'>
-	🖥️
+	🖥️🖱️⌨️
 	<br>
 	<img src="https://img.shields.io/badge/AMD%20Radeon_RX_6650XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 	<img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
