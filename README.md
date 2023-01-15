@@ -1,9 +1,10 @@
 <h1>🧐 Welcome To My GitHub Profile -</h1>
-<p>✅ Programmer with Software & Web,</p>
-<p>✅ Engineering computer's as a hobby and diagnosing computer hardware problems,</p>
-<p>✅ Mathematician,</p>
-<p>✅ Free and open-source enthusiast,</p>
-<p>❓ I someday wanna make my own OS or Linux Distribution.</p>
+<p>➡️ Programmer with Software & Web,</p>
+<p>➡️ Engineering computer's as a hobby and diagnosing computer hardware problems,</p>
+<p>➡️ Mathematician,</p>
+<p>➡️ Free and open-source enthusiast,</p>
+<p>❓ I someday wanna make my own OS or Linux Distribution,</p>
+<p>❓ Make my own game engine from scratch.</p>
 
 <h2></h2>
 <h3><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <br>
