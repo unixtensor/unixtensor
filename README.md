@@ -1,4 +1,4 @@
-<h1>🧐 Welcome To My GitHub Profile -</h1>
+<h1>🧐 Welcome To My GitHub Profile - <img src="https://komarev.com/ghpvc/?username=interpreterK&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"></h1>
 <p>➡️ Programmer with Software & Web,</p>
 <p>➡️ Engineering computer's as a hobby and diagnosing computer hardware problems,</p>
 <p>➡️ Mathematician,</p>
@@ -6,37 +6,37 @@
 <p>❓ I someday wanna make my own OS or Linux Distribution,</p>
 <p>❓ Make my own game engine from scratch.</p>
 
+<h1>💬 Socials -</h1>
+
+| Media      | Where |
+| ----------- | ----------- |
+| <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">      |<b>https://youtube.com/rhpid</b>       |
+| <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> | <b>https://steamcommunity.com/id/RealBrandong/</b> |
+| <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"> | <b>u/rhpidfyre</b> |
+| <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">   | <b>Brandong#0001</b>        |
+
+<h3>➡️ My primary social is Discord, contact or friend me there and I will respond fastest.</h3>
+
 <h2></h2>
-<h3><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <br>
-https://www.youtube.com/rhpid
-</h3>
-<h3><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> <br>
-Brandong#0001
-</h3>
-
-<h2></h2><br>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=interpreterK&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> 
-<br>
 
 <h1 align='center'>
-	🖥️🖱️⌨️
-	<br>
+	🖥️ Hardware -
+	<br><br>
 	<img src="https://img.shields.io/badge/AMD%20Radeon_RX_6650XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 	<img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 	<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="ArchLinux">
 </h1>
-<p align='center'>
+<h3 align='center'>
+	🗒️ Experiences -
+	<br><br>
 	<img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white">
 	<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
 	<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<p>
+</h3>
 <p align='center'>
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
