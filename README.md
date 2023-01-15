@@ -71,7 +71,7 @@ Brandong#0001
 <br>
 ![Gist](https://gists-readme.yizack.com/api?user=interpreterK&theme=dark)
 <br>
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=interpreterK&theme=dracula)
+![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=interpreterK&theme=github-compact)
 
 ---
 
