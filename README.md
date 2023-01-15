@@ -73,5 +73,3 @@ Brandong#0001
 <br>
 ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=interpreterK&theme=github-compact)
 
----
-
