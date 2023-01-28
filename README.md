@@ -16,6 +16,7 @@
 | <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">   | <b>Brandong#0001</b>        |
 
 <h3>➡️ My primary social is Discord, contact or friend me there and I will respond fastest.</h3>
+<h4>📧 You can reach me via Email too: <ins>rhpidfyre@tuta.io</ins></h4>
 
 <h2></h2>
 
