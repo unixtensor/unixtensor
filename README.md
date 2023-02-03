@@ -29,8 +29,6 @@
 	<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="ArchLinux">
 </h1>
 <h3 align='center'>
-	🗒️ Experiences -
-	<br><br>
 	<img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white">
 	<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -66,7 +64,6 @@
 </p>
 
 ---
-<h1>📈 Statistics -</h1>
 
 ![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark&include_all_commits=true)
