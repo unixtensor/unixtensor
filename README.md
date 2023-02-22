@@ -17,8 +17,6 @@
 
 <h4>📧 You can reach me via Email too: <ins>rhpidfyre@tuta.io</ins></h4>
 
-<h2></h2>
-
 <h1 align='center'>
 	🖥️ Hardware -
 	<br><br>
