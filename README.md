@@ -6,6 +6,11 @@
 <p>❓ I someday wanna make my own OS or Linux Distribution,</p>
 <p>❓ Make my own game engine from scratch.</p>
 
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark&include_all_commits=true)
+![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
+<br>
+![Gist](https://gists-readme.yizack.com/api?user=interpreterK&theme=dark)
+
 <h1>💬 Socials -</h1>
 
 | Media      | Where |
@@ -64,11 +69,6 @@
 
 ---
 
-![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
-<br>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark&include_all_commits=true)
-<br>
-![Gist](https://gists-readme.yizack.com/api?user=interpreterK&theme=dark)
 <br>
 ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=interpreterK&theme=github-compact)
 
