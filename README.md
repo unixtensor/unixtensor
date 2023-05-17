@@ -6,7 +6,7 @@
 <p>❓ I someday wanna make my own OS or Linux Distribution,</p>
 <p>❓ Make my own game engine from scratch.</p>
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=10&layout=compact&theme=github_dark&include_all_commits=true)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=30&layout=compact&theme=github_dark&include_all_commits=true)
 ![interpreterK's GitHub stats](https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 <br>
 ![Gist](https://gists-readme.yizack.com/api?user=interpreterK&theme=dark)
