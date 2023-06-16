@@ -18,9 +18,9 @@
 | <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">      |<b>https://youtube.com/rhpid</b>       |
 | <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"> | <b>https://steamcommunity.com/id/RealBrandong/</b> |
 | <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"> | <b>u/rhpidfyre</b> |
-| <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">   | <b>Brandong#0001</b>        |
+| <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">   | <b>rhpidfyre</b>        |
 
-<h4>📧 You can reach me via Email too: <ins>rhpidfyre@tuta.io</ins></h4>
+<h4>📧 You can reach me via Email too: <ins>brandon@rhpidfyre.io</ins></h4>
 
 <h2></h2>
 
