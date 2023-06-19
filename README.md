@@ -11,6 +11,21 @@
 <br>
 ![Gist](https://gists-readme.yizack.com/api?user=interpreterK&theme=dark)
 
+<h1>🖥️ Computer Specifications:</h1>
+
+Hardware | Specification
+------------- | -------------
+OS  | Arch Linux
+DE  | KDE Plasma
+CPU | Ryzen 7 5800X
+GPU | RX 6650 XT
+RAM | 64GB DDR4 3200MHz
+SSD | 500GB*2+1TB (2TB)
+HDD | 1TB
+MOBO | ASUS ROG B550F
+PSU | 850 Watt 80 PLUS Platinum
+CASE | be quiet! Dark Base 700
+
 <h1>💬 Socials -</h1>
 
 | Media      | Where |
