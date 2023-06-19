@@ -13,16 +13,16 @@
 
 <h1>🖥️ Computer Specifications:</h1>
 
-Hardware | Specification
+Type | Specification
 ------------- | -------------
 OS  | Arch Linux
 DE  | KDE Plasma
 CPU | Ryzen 7 5800X
 GPU | RX 6650 XT
 RAM | 64GB DDR4 3200MHz
-SSD | 500GB*2+1TB (2TB)
+SSD(S) | 500GB*2+1TB (2TB)
 HDD | 1TB
-MOBO | ASUS ROG B550F
+MOBO | ASUS ROG B550-F
 PSU | 850 Watt 80 PLUS Platinum
 CASE | be quiet! Dark Base 700
 
@@ -37,17 +37,15 @@ CASE | be quiet! Dark Base 700
 
 <h4>📧 You can reach me via Email too: <ins>brandon@rhpidfyre.io</ins></h4>
 
-<h2></h2>
+---
 
-<h1 align='center'>
-	🖥️ Hardware -
-	<br><br>
+<h3>
 	<img src="https://img.shields.io/badge/AMD%20Radeon_RX_6650XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 	<img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 	<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="ArchLinux">
-</h1>
-<h3 align='center'>
+</h3>
+<h3>
 	<img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white">
 	<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -55,7 +53,7 @@ CASE | be quiet! Dark Base 700
 	<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </h3>
-<p align='center'>
+<p>
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="SublimeText">
@@ -64,7 +62,7 @@ CASE | be quiet! Dark Base 700
 	<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
 	<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
-<p align='center'>
+<p>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -77,9 +75,7 @@ CASE | be quiet! Dark Base 700
 	<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
-<p align='center'>
+<p>
 	<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 	<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 </p>
-
----
