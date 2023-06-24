@@ -3,7 +3,7 @@
 <p>➡️ Engineering computer's as a hobby and diagnosing computer hardware problems,</p>
 <p>➡️ Mathematician,</p>
 <p>➡️ Free and open-source enthusiast,</p>
-<p>❓ I someday wanna make my own OS or Linux Distribution,</p>
+<p>❓ Make my own OS or Linux Distribution,</p>
 <p>❓ Make my own game engine from scratch.</p>
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=30&layout=compact&theme=github_dark&include_all_commits=true)
