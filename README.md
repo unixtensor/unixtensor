@@ -17,8 +17,10 @@
 
 Type | Specification
 ------------- | -------------
-OS  | Arch Linux
-DE  | KDE Plasma
+**OS**  | Arch Linux
+**DE**  | XFCE
+DE 2 | KDE
+OS 2 | Win10 Pro
 CPU | Ryzen 7 5800X
 GPU | RX 6650 XT
 RAM | 64GB DDR4 3200MHz
