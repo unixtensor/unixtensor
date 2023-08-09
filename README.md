@@ -11,11 +11,8 @@
 <h1></h1>
 <div>
 <a href="#">
-<img src="https://media0.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="280">
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=30&layout=compact&theme=github_dark&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=30&layout=compact&theme=transparent&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=transparent&include_all_commits=true">
 </a>
 </div>
 <a href="https://gist.github.com/interpreterK">
@@ -59,3 +56,6 @@ MONITOR 3 | 1080p 144Hz
 <h4>📧 You can reach me via Email too: <ins>brandon@rhpidfyre.io</ins></h4>
 
 ---
+<div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=interpreterK&repo=LuaW3&theme=transparent">
+</div>
