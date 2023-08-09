@@ -35,8 +35,11 @@ SSD(S) | 500GB*2+1TB (2TB)
 HDD - NTFS | 331.51GB
 HDD - EXT4 | 600GB
 MOBO | ASUS ROG B550-F
-PSU | 850 Watt 80 PLUS Platinum
+PSU | 850 Watt: 80 PLUS Platinum
 CASE | be quiet! Dark Base 700
+**MONITOR 1** | 1440p 144Hz
+MONITOR 2 | 1080p 144Hz
+MONITOR 3 | 1080p 144Hz
 
 <h1>💬 Socials -</h1>
 
