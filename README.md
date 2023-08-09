@@ -10,15 +10,15 @@
 </a>
 <h1></h1>
 <div>
+<img src="https://media0.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="280">
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=interpreterK&langs_count=30&layout=compact&theme=github_dark&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api?username=interpreterK&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
 </a>
+</div>
 <a href="https://gist.github.com/interpreterK">
 <img src="https://gists-readme.yizack.com/api?user=interpreterK&theme=dark">
 </a>
-</div>
-
 <h1>🖥️ Computer Specifications:</h1>
 <a href="https://archlinux.org/" target="_blank">
 <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="300" alt="Arch Linux">
