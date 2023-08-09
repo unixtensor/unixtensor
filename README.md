@@ -17,7 +17,7 @@
 
 <h1>🖥️ Computer Specifications:</h1>
 <a href="https://archlinux.org/" target="_blank">
-<img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="350" alt="Arch Linux">
+<img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="300" alt="Arch Linux">
 </a>
 
 Type | Specification
