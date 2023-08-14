@@ -54,5 +54,3 @@ MONITOR 3 | 1080p 144Hz
 | <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"> | <b>u/rhpidfyre</b> |
 
 <h4>📧 You can reach me via Email too: <ins>brandon@rhpidfyre.io</ins></h4>
-
----
