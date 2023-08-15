@@ -30,8 +30,8 @@ Type | Specification
 DE 2 | KDE
 OS 2 | Win10 Pro
 CPU | Ryzen 7 5800X
-**GPU** | RX 6650 XT - 8GB
-GPU 2 | RX 580 - 4GB
+**GPU** | XFX MERC RX 6650 XT - 8GB
+GPU 2 | XFX RX 580 - 4GB
 RAM | 64GB DDR4 3200MHz
 SSD(S) | 500GB*2+1TB (2TB)
 **HDD** | 1TB
