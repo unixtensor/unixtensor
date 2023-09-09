@@ -1,6 +1,4 @@
 <h1>🧐 Welcome To My GitHub Profile - <img src="https://komarev.com/ghpvc/?username=interpreterK&color=cc2727&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"></h1>
-<h3>🔀 https://git.itzana.me/interpreterK</h3>
-<h3>🔀 https://gitlab.freedesktop.org/interpreterK</h3>
 <p>➡️ Programmer with Software & Web,</p>
 <p>➡️ Engineering computer's as a hobby and diagnosing computer hardware problems,</p>
 <p>➡️ Mathematician,</p>
