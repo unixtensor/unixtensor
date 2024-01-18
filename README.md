@@ -1,3 +1,5 @@
+https://git.itzana.me/interpreterK <br>
+https://gitlab.freedesktop.org/interpreterK <br><br>
 <img src="https://komarev.com/ghpvc/?username=interpreterK&color=cc2727&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 <div>
 <a href="#">
