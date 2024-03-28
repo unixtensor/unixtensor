@@ -5,5 +5,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=unittensor&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github">
 </div>
 </a>
-<h3>Contact (discord): sedenions</h3>
+<h3>Discord: sedenions</h3>
 <h3>YouTube: @rhpid</h3>
